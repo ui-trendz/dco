@@ -20,6 +20,7 @@
   "orientation": "portrait",
   "short_name": "Dco",
   "theme_color": "#FFFFFF",
+  "prefer_related_applications": false,
   "related_applications": [
     {
       "platform": "play",
