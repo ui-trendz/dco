@@ -1,23 +1,30 @@
 {
-    "android_package_name": "com.dco",
-    "background_color": "#fff",
-    "display": "standalone",
-    "icons": [
-        {
-          "src": "assets/icon/favicon.png",
-          "sizes": "64x64 32x32 24x24 16x16",
-          "type": "image/x-icon"
-        },
-        {
-          "src": "assets/icon/icon.png",
-          "type": "image/png",
-          "sizes": "512x512",
-          "purpose": "maskable"
-        }
-      ],
-      "start_url": ".",                    
-    "name": "Pinterest",
-    "orientation": "portrait",
-    "short_name": "Pinterest",
-    "theme_color": "#FFFFFF"    
+  "android_package_name": "com.dco",
+  "background_color": "#fff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/icon/favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "name": "Pinterest",
+  "orientation": "portrait",
+  "short_name": "Pinterest",
+  "theme_color": "#FFFFFF",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.dco"
+    }
+  ]
 }
