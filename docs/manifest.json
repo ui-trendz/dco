@@ -16,11 +16,10 @@
     }
   ],
   "start_url": ".",
-  "name": "Pinterest",
+  "name": "DCO",
   "orientation": "portrait",
-  "short_name": "Pinterest",
+  "short_name": "Dco",
   "theme_color": "#FFFFFF",
-  "prefer_related_applications": true,
   "related_applications": [
     {
       "platform": "play",
