@@ -7,21 +7,12 @@
 	"display": "standalone",
 	"orientation": "portrait",
 	"description": "Wholesale veg business",
+  "android_package_name": "com.dco",
 	"prefer_related_applications": false,
-	"related_applications": [
-		{
-			"platform": "play",
-			"url": "https://play.google.com/store/apps/details?id=com.bt.bms",
-			"id": "com.bt.bms"
-		},
-		{
-			"platform": "itunes",
-			"url": "https://itunes.apple.com/in/app/bookmyshow-movies-events-play-tickets/id405894842"
-		}
-	],
+	"related_applications": [],
 	"icons": [
 		{
-			"src": "https://assets-in.bmscdn.com/m6/images/icons/bms-lite-36.png",
+			"src": "https://dco.uitrendz.com/assets/B.png",
 			"sizes": "36x36",
 			"type": "image/png",
 			"density": 0.75,
